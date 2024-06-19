@@ -2,7 +2,7 @@
 
 ### Harness the flow of market data
 
-Visit [Robinflow](https://robinflow.io/) to trade smarter with our proprietary market data or sign up for our free email list for more information. 
+Visit [robinflow.io](https://robinflow.io/) to trade smarter with our proprietary market data or sign up for our free email list for more information. 
 
 <br>
 
