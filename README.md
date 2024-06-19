@@ -1,6 +1,6 @@
 # Robinflow
 
-Defines the Robinflow Github organization front page.
+Defines Robinflow public documentation and help resources.
 
 <br>
 
