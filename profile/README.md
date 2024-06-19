@@ -6,8 +6,8 @@ Visit [Robinflow](https://robinflow.io/) to trade smarter with our proprietary m
 
 ## Contact
 
-info@robinflow.io -- Business inquiries, general business questions.
-support@robinflow.io -- For account and product questions/issues.
+info@robinflow.io -- Business inquiries, general business questions.<br>
+support@robinflow.io -- For account and product questions/issues.<br>
 
 <br>
 
