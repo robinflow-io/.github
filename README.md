@@ -1,6 +1,6 @@
 # Robinflow
 
-Defines Robinflow public documentation and resources.
+Defines public Robinflow documentation and resources.
 
 <br>
 
